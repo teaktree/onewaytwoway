@@ -1,1 +1,2 @@
-# This is the project repo for the One way vs Two way comparison
+# One way vs Two way Repeaters 
+## A comparison
